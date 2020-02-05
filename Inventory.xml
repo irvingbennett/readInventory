@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created on 2020-02-05T15:19:56-05:00 -->
+<!-- V9 STATION -->
+<DOCUMENT>
+<INVENTORYS>
+<INVENTORY>
+<INVN_STYLE style_sid="4699886988659153392" style_code=""/>
+<INVN item_sid="4699886989774838256" upc="3616411804815" use_qty_decimals="" prod_cost="" reclass_item_sid=""/>
+<INVN_SBS sbs_no="65" alu="A411817" dcs_code="RLWBLU004" vend_code="PRL" scale_no="3" description1="211792221001" description2="STRP PTCH T-3/4 SLEEVE-KNIT" description3="SELF START RIB" description4="OK201E05" attr="PL BK/WH" siz="XS" cost="0" spif="" fc_cost="" fst_rcvd_date="" lst_rcvd_date="" lst_sold_date="" marked_date="" discont_date="" created_date="2020-01-17T10:10:10" modified_date="2020-01-17T10:10:10-05:00" tax_code="0" comm_code="" sched_no="" fst_price="128" markdown_price="" qty_per_case="" lst_rcvd_cost="" flag="" ext_flag="" edi_flag="" kit_type="0" max_disc_perc1="100" max_disc_perc2="100" min_ord_qty="" vend_lead_time="" vend_list_cost="" trade_disc_perc="" udf1_date="2020-01-17T00:00:00" udf2_value="20200117" unorderable="0" print_tag="" active="1" item_no="411817" cms="" cms_post_date="2020-02-05T09:50:39" eci_flag="" regional="0" gift_flag="" item_state="" orderable_date="" sellable_date="" long_description="" non_return_flag="" ship_weight1="" ship_weight2="" oversized_item="" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" text10="" height="" length="" width="" weight_unit="" dim_unit="" subloc_flag="" lty_price_in_points="" lty_points_earned="" force_orig_tax="" prod_cost="" local_upc="3616411804815" zero_price_lock="" currency_name="" createdby_sbs_no="" createdby_empl_name="" modifiedby_sbs_no="" modifiedby_empl_name="" range_name="" keyitem_group_name="" doc_design="" ship_method_name="">
+<INVN_SBS_SUPPLS>
+<INVN_SBS_SUPPL udf_no="1" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="2" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="3" udf_value="SP20"/>
+<INVN_SBS_SUPPL udf_no="4" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="5" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="6" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="7" udf_value="WSW POLO APPAREL"/>
+<INVN_SBS_SUPPL udf_no="8" udf_value="SP20 W DEL 1"/>
+<INVN_SBS_SUPPL udf_no="9" udf_value="WW Polo Apparel"/>
+<INVN_SBS_SUPPL udf_no="10" udf_value="TOPS"/>
+<INVN_SBS_SUPPL udf_no="11" udf_value="KNITS"/>
+<INVN_SBS_SUPPL udf_no="12" udf_value="POLO RALPH LAUREN"/>
+<INVN_SBS_SUPPL udf_no="13" udf_value="RL205"/>
+<INVN_SBS_SUPPL udf_no="14" udf_value="WOMEN"/>
+</INVN_SBS_SUPPLS>
+<INVN_SBS_VENDORS>
+</INVN_SBS_VENDORS>
+<INVN_SBS_PRICES>
+<INVN_SBS_PRICE price_lvl="1" price="499900" qty_req="" season_code="None" active_season="1"/>
+<INVN_SBS_PRICE price_lvl="2" price="499900" qty_req="" season_code="None" active_season="1"/>
+</INVN_SBS_PRICES>
+<INVN_SBS_QTYS>
+<INVN_SBS_QTY store_no="0" qty="" min_qty="" max_qty="" transfer_in_qty="" transfer_out_qty="" sold_qty="" rcvd_qty="" onorder_qty="" to_in_ord_qty="0" to_in_sent_qty="0" to_out_ord_qty="0" to_out_sent_qty="0" po_ord_qty="4" po_rcvd_qty="0" so_ord_qty="0" so_sent_qty="0" asn_in_transit_qty="" lst_oh_qty_date="" docs_in_use="" pend_vou_in=""/>
+<INVN_SBS_QTY store_no="1" qty="" min_qty="" max_qty="" transfer_in_qty="" transfer_out_qty="" sold_qty="" rcvd_qty="" onorder_qty="" to_in_ord_qty="0" to_in_sent_qty="0" to_out_ord_qty="0" to_out_sent_qty="0" po_ord_qty="0" po_rcvd_qty="0" so_ord_qty="0" so_sent_qty="0" asn_in_transit_qty="" lst_oh_qty_date="" docs_in_use="" pend_vou_in=""/>
+<INVN_SBS_QTY store_no="2" qty="" min_qty="" max_qty="" transfer_in_qty="" transfer_out_qty="" sold_qty="" rcvd_qty="" onorder_qty="" to_in_ord_qty="0" to_in_sent_qty="0" to_out_ord_qty="0" to_out_sent_qty="0" po_ord_qty="0" po_rcvd_qty="0" so_ord_qty="0" so_sent_qty="0" asn_in_transit_qty="" lst_oh_qty_date="" docs_in_use="" pend_vou_in=""/>
+<INVN_SBS_QTY store_no="250" qty="" min_qty="" max_qty="" transfer_in_qty="" transfer_out_qty="" sold_qty="" rcvd_qty="" onorder_qty="" to_in_ord_qty="0" to_in_sent_qty="0" to_out_ord_qty="0" to_out_sent_qty="0" po_ord_qty="4" po_rcvd_qty="0" so_ord_qty="0" so_sent_qty="0" asn_in_transit_qty="" lst_oh_qty_date="" docs_in_use="" pend_vou_in=""/>
+</INVN_SBS_QTYS>
+<INVN_SBS_KITS came_from="9">
+</INVN_SBS_KITS>
+<LOTS>
+</LOTS>
+<INVN_SBS_LTYS>
+</INVN_SBS_LTYS>
+</INVN_SBS>
+</INVENTORY>
+<INVENTORY>
+<INVN_STYLE style_sid="4699886992618576368" style_code=""/>
+<INVN item_sid="4699886990437538288" upc="3616411090799" use_qty_decimals="" prod_cost="" reclass_item_sid=""/>
+<INVN_SBS sbs_no="65" alu="A411818" dcs_code="RLMBLU058" vend_code="PRL" scale_no="6" description1="710785442001" description2="SULLIVAN SHORT" description3="DENIM" description4="R203SD15" attr="BRESLIN" siz="30" cost="" spif="" fc_cost="" fst_rcvd_date="" lst_rcvd_date="" lst_sold_date="" marked_date="" discont_date="" created_date="2020-01-17T10:10:10" modified_date="2020-01-17T10:10:10-05:00" tax_code="0" comm_code="" sched_no="" fst_price="79.5" markdown_price="" qty_per_case="" lst_rcvd_cost="" flag="" ext_flag="" edi_flag="" kit_type="0" max_disc_perc1="100" max_disc_perc2="100" min_ord_qty="" vend_lead_time="" vend_list_cost="" trade_disc_perc="" udf1_date="2020-01-17T00:00:00" udf2_value="20200117" unorderable="0" print_tag="" active="1" item_no="411818" cms="" cms_post_date="2020-01-17T15:46:24" eci_flag="" regional="0" gift_flag="" item_state="" orderable_date="" sellable_date="" long_description="" non_return_flag="" ship_weight1="" ship_weight2="" oversized_item="" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" text10="" height="" length="" width="" weight_unit="" dim_unit="" subloc_flag="" lty_price_in_points="" lty_points_earned="" force_orig_tax="" prod_cost="" local_upc="3616411090799" zero_price_lock="" currency_name="" createdby_sbs_no="" createdby_empl_name="" modifiedby_sbs_no="" modifiedby_empl_name="" range_name="" keyitem_group_name="" doc_design="" ship_method_name="">
+<INVN_SBS_SUPPLS>
+<INVN_SBS_SUPPL udf_no="1" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="2" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="3" udf_value="SP20"/>
+<INVN_SBS_SUPPL udf_no="4" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="5" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="6" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="7" udf_value="MSW POLO"/>
+<INVN_SBS_SUPPL udf_no="8" udf_value="SP20 M SARANAC"/>
+<INVN_SBS_SUPPL udf_no="9" udf_value="MW Polo Sportswear"/>
+<INVN_SBS_SUPPL udf_no="10" udf_value="BOTTOMS"/>
+<INVN_SBS_SUPPL udf_no="11" udf_value="SHORTS"/>
+<INVN_SBS_SUPPL udf_no="12" udf_value="POLO RALPH LAUREN"/>
+<INVN_SBS_SUPPL udf_no="13" udf_value="RL160"/>
+<INVN_SBS_SUPPL udf_no="14" udf_value="MEN"/>
+</INVN_SBS_SUPPLS>
+<INVN_SBS_VENDORS>
+</INVN_SBS_VENDORS>
+<INVN_SBS_PRICES>
+</INVN_SBS_PRICES>
+<INVN_SBS_QTYS>
+</INVN_SBS_QTYS>
+<INVN_SBS_KITS came_from="9">
+</INVN_SBS_KITS>
+<LOTS>
+</LOTS>
+<INVN_SBS_LTYS>
+</INVN_SBS_LTYS>
+</INVN_SBS>
+</INVENTORY>
+<INVENTORY>
+<INVN_STYLE style_sid="4699886992618576368" style_code=""/>
+<INVN item_sid="4699886990605310448" upc="3616411090812" use_qty_decimals="" prod_cost="" reclass_item_sid=""/>
+<INVN_SBS sbs_no="65" alu="A411819" dcs_code="RLMBLU058" vend_code="PRL" scale_no="6" description1="710785442001" description2="SULLIVAN SHORT" description3="DENIM" description4="R203SD15" attr="BRESLIN" siz="32" cost="" spif="" fc_cost="" fst_rcvd_date="" lst_rcvd_date="" lst_sold_date="" marked_date="" discont_date="" created_date="2020-01-17T10:10:10" modified_date="2020-01-17T10:10:10-05:00" tax_code="0" comm_code="" sched_no="" fst_price="79.5" markdown_price="" qty_per_case="" lst_rcvd_cost="" flag="" ext_flag="" edi_flag="" kit_type="0" max_disc_perc1="100" max_disc_perc2="100" min_ord_qty="" vend_lead_time="" vend_list_cost="" trade_disc_perc="" udf1_date="2020-01-17T00:00:00" udf2_value="20200117" unorderable="0" print_tag="" active="1" item_no="411819" cms="" cms_post_date="2020-01-17T15:46:24" eci_flag="" regional="0" gift_flag="" item_state="" orderable_date="" sellable_date="" long_description="" non_return_flag="" ship_weight1="" ship_weight2="" oversized_item="" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" text10="" height="" length="" width="" weight_unit="" dim_unit="" subloc_flag="" lty_price_in_points="" lty_points_earned="" force_orig_tax="" prod_cost="" local_upc="3616411090812" zero_price_lock="" currency_name="" createdby_sbs_no="" createdby_empl_name="" modifiedby_sbs_no="" modifiedby_empl_name="" range_name="" keyitem_group_name="" doc_design="" ship_method_name="">
+<INVN_SBS_SUPPLS>
+<INVN_SBS_SUPPL udf_no="1" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="2" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="3" udf_value="SP20"/>
+<INVN_SBS_SUPPL udf_no="4" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="5" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="6" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="7" udf_value="MSW POLO"/>
+<INVN_SBS_SUPPL udf_no="8" udf_value="SP20 M SARANAC"/>
+<INVN_SBS_SUPPL udf_no="9" udf_value="MW Polo Sportswear"/>
+<INVN_SBS_SUPPL udf_no="10" udf_value="BOTTOMS"/>
+<INVN_SBS_SUPPL udf_no="11" udf_value="SHORTS"/>
+<INVN_SBS_SUPPL udf_no="12" udf_value="POLO RALPH LAUREN"/>
+<INVN_SBS_SUPPL udf_no="13" udf_value="RL160"/>
+<INVN_SBS_SUPPL udf_no="14" udf_value="MEN"/>
+</INVN_SBS_SUPPLS>
+<INVN_SBS_VENDORS>
+</INVN_SBS_VENDORS>
+<INVN_SBS_PRICES>
+</INVN_SBS_PRICES>
+<INVN_SBS_QTYS>
+</INVN_SBS_QTYS>
+<INVN_SBS_KITS came_from="9">
+</INVN_SBS_KITS>
+<LOTS>
+</LOTS>
+<INVN_SBS_LTYS>
+</INVN_SBS_LTYS>
+</INVN_SBS>
+</INVENTORY>
+<INVENTORY>
+<INVN_STYLE style_sid="4699887004933052912" style_code=""/>
+<INVN item_sid="4699887005209876976" upc="3616410939006" use_qty_decimals="" prod_cost="" reclass_item_sid=""/>
+<INVN_SBS sbs_no="65" alu="A411864" dcs_code="RLMBLU058" vend_code="PRL" scale_no="6" description1="781751527006" description2="TF GOLF SHORT" description3="CTN/POLY/STR TWILL" description4="R201GB03" attr="CL KHAKI" siz="34" cost="" spif="" fc_cost="" fst_rcvd_date="" lst_rcvd_date="" lst_sold_date="" marked_date="" discont_date="" created_date="2020-01-17T10:10:10" modified_date="2020-01-17T10:10:10-05:00" tax_code="0" comm_code="" sched_no="" fst_price="85" markdown_price="" qty_per_case="" lst_rcvd_cost="" flag="" ext_flag="" edi_flag="" kit_type="0" max_disc_perc1="100" max_disc_perc2="100" min_ord_qty="" vend_lead_time="" vend_list_cost="" trade_disc_perc="" udf1_date="2020-01-17T00:00:00" udf2_value="20200117" unorderable="0" print_tag="" active="1" item_no="411864" cms="" cms_post_date="2020-01-17T15:46:24" eci_flag="" regional="0" gift_flag="" item_state="" orderable_date="" sellable_date="" long_description="" non_return_flag="" ship_weight1="" ship_weight2="" oversized_item="" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" text10="" height="" length="" width="" weight_unit="" dim_unit="" subloc_flag="" lty_price_in_points="" lty_points_earned="" force_orig_tax="" prod_cost="" local_upc="3616410939006" zero_price_lock="" currency_name="" createdby_sbs_no="" createdby_empl_name="" modifiedby_sbs_no="" modifiedby_empl_name="" range_name="" keyitem_group_name="" doc_design="" ship_method_name="">
+<INVN_SBS_SUPPLS>
+<INVN_SBS_SUPPL udf_no="1" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="2" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="3" udf_value="SP20"/>
+<INVN_SBS_SUPPL udf_no="4" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="5" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="6" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="7" udf_value="MSW POLO GOLF"/>
+<INVN_SBS_SUPPL udf_no="8" udf_value="SP20 M GOLF"/>
+<INVN_SBS_SUPPL udf_no="9" udf_value="MW Polo Sportswear"/>
+<INVN_SBS_SUPPL udf_no="10" udf_value="BOTTOMS"/>
+<INVN_SBS_SUPPL udf_no="11" udf_value="SHORTS"/>
+<INVN_SBS_SUPPL udf_no="12" udf_value="POLO RALPH LAUREN"/>
+<INVN_SBS_SUPPL udf_no="13" udf_value="RL160"/>
+<INVN_SBS_SUPPL udf_no="14" udf_value="MEN"/>
+</INVN_SBS_SUPPLS>
+<INVN_SBS_VENDORS>
+</INVN_SBS_VENDORS>
+<INVN_SBS_PRICES>
+</INVN_SBS_PRICES>
+<INVN_SBS_QTYS>
+</INVN_SBS_QTYS>
+<INVN_SBS_KITS came_from="9">
+</INVN_SBS_KITS>
+<LOTS>
+</LOTS>
+<INVN_SBS_LTYS>
+</INVN_SBS_LTYS>
+</INVN_SBS>
+</INVENTORY>
+<INVENTORY>
+<INVN_STYLE style_sid="4699887004933052912" style_code=""/>
+<INVN item_sid="4699887003230165488" upc="3616410939020" use_qty_decimals="" prod_cost="" reclass_item_sid=""/>
+<INVN_SBS sbs_no="65" alu="A411865" dcs_code="RLMBLU058" vend_code="PRL" scale_no="6" description1="781751527006" description2="TF GOLF SHORT" description3="CTN/POLY/STR TWILL" description4="R201GB03" attr="CL KHAKI" siz="36" cost="" spif="" fc_cost="" fst_rcvd_date="" lst_rcvd_date="" lst_sold_date="" marked_date="" discont_date="" created_date="2020-01-17T10:10:10" modified_date="2020-01-17T10:10:10-05:00" tax_code="0" comm_code="" sched_no="" fst_price="85" markdown_price="" qty_per_case="" lst_rcvd_cost="" flag="" ext_flag="" edi_flag="" kit_type="0" max_disc_perc1="100" max_disc_perc2="100" min_ord_qty="" vend_lead_time="" vend_list_cost="" trade_disc_perc="" udf1_date="2020-01-17T00:00:00" udf2_value="20200117" unorderable="0" print_tag="" active="1" item_no="411865" cms="" cms_post_date="2020-01-17T15:46:24" eci_flag="" regional="0" gift_flag="" item_state="" orderable_date="" sellable_date="" long_description="" non_return_flag="" ship_weight1="" ship_weight2="" oversized_item="" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" text10="" height="" length="" width="" weight_unit="" dim_unit="" subloc_flag="" lty_price_in_points="" lty_points_earned="" force_orig_tax="" prod_cost="" local_upc="3616410939020" zero_price_lock="" currency_name="" createdby_sbs_no="" createdby_empl_name="" modifiedby_sbs_no="" modifiedby_empl_name="" range_name="" keyitem_group_name="" doc_design="" ship_method_name="">
+<INVN_SBS_SUPPLS>
+<INVN_SBS_SUPPL udf_no="1" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="2" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="3" udf_value="SP20"/>
+<INVN_SBS_SUPPL udf_no="4" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="5" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="6" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="7" udf_value="MSW POLO GOLF"/>
+<INVN_SBS_SUPPL udf_no="8" udf_value="SP20 M GOLF"/>
+<INVN_SBS_SUPPL udf_no="9" udf_value="MW Polo Sportswear"/>
+<INVN_SBS_SUPPL udf_no="10" udf_value="BOTTOMS"/>
+<INVN_SBS_SUPPL udf_no="11" udf_value="SHORTS"/>
+<INVN_SBS_SUPPL udf_no="12" udf_value="POLO RALPH LAUREN"/>
+<INVN_SBS_SUPPL udf_no="13" udf_value="RL160"/>
+<INVN_SBS_SUPPL udf_no="14" udf_value="MEN"/>
+</INVN_SBS_SUPPLS>
+<INVN_SBS_VENDORS>
+</INVN_SBS_VENDORS>
+<INVN_SBS_PRICES>
+</INVN_SBS_PRICES>
+<INVN_SBS_QTYS>
+</INVN_SBS_QTYS>
+<INVN_SBS_KITS came_from="9">
+</INVN_SBS_KITS>
+<LOTS>
+</LOTS>
+<INVN_SBS_LTYS>
+</INVN_SBS_LTYS>
+</INVN_SBS>
+</INVENTORY>
+<INVENTORY>
+<INVN_STYLE style_sid="4699887004933052912" style_code=""/>
+<INVN item_sid="4699887004043860464" upc="3616410939037" use_qty_decimals="" prod_cost="" reclass_item_sid=""/>
+<INVN_SBS sbs_no="65" alu="A411866" dcs_code="RLMBLU058" vend_code="PRL" scale_no="6" description1="781751527006" description2="TF GOLF SHORT" description3="CTN/POLY/STR TWILL" description4="R201GB03" attr="CL KHAKI" siz="38" cost="" spif="" fc_cost="" fst_rcvd_date="" lst_rcvd_date="" lst_sold_date="" marked_date="" discont_date="" created_date="2020-01-17T10:10:10" modified_date="2020-01-17T10:10:10-05:00" tax_code="0" comm_code="" sched_no="" fst_price="85" markdown_price="" qty_per_case="" lst_rcvd_cost="" flag="" ext_flag="" edi_flag="" kit_type="0" max_disc_perc1="100" max_disc_perc2="100" min_ord_qty="" vend_lead_time="" vend_list_cost="" trade_disc_perc="" udf1_date="2020-01-17T00:00:00" udf2_value="20200117" unorderable="0" print_tag="" active="1" item_no="411866" cms="" cms_post_date="2020-01-17T15:46:24" eci_flag="" regional="0" gift_flag="" item_state="" orderable_date="" sellable_date="" long_description="" non_return_flag="" ship_weight1="" ship_weight2="" oversized_item="" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" text10="" height="" length="" width="" weight_unit="" dim_unit="" subloc_flag="" lty_price_in_points="" lty_points_earned="" force_orig_tax="" prod_cost="" local_upc="3616410939037" zero_price_lock="" currency_name="" createdby_sbs_no="" createdby_empl_name="" modifiedby_sbs_no="" modifiedby_empl_name="" range_name="" keyitem_group_name="" doc_design="" ship_method_name="">
+<INVN_SBS_SUPPLS>
+<INVN_SBS_SUPPL udf_no="1" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="2" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="3" udf_value="SP20"/>
+<INVN_SBS_SUPPL udf_no="4" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="5" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="6" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="7" udf_value="MSW POLO GOLF"/>
+<INVN_SBS_SUPPL udf_no="8" udf_value="SP20 M GOLF"/>
+<INVN_SBS_SUPPL udf_no="9" udf_value="MW Polo Sportswear"/>
+<INVN_SBS_SUPPL udf_no="10" udf_value="BOTTOMS"/>
+<INVN_SBS_SUPPL udf_no="11" udf_value="SHORTS"/>
+<INVN_SBS_SUPPL udf_no="12" udf_value="POLO RALPH LAUREN"/>
+<INVN_SBS_SUPPL udf_no="13" udf_value="RL160"/>
+<INVN_SBS_SUPPL udf_no="14" udf_value="MEN"/>
+</INVN_SBS_SUPPLS>
+<INVN_SBS_VENDORS>
+</INVN_SBS_VENDORS>
+<INVN_SBS_PRICES>
+</INVN_SBS_PRICES>
+<INVN_SBS_QTYS>
+</INVN_SBS_QTYS>
+<INVN_SBS_KITS came_from="9">
+</INVN_SBS_KITS>
+<LOTS>
+</LOTS>
+<INVN_SBS_LTYS>
+</INVN_SBS_LTYS>
+</INVN_SBS>
+</INVENTORY>
+<INVENTORY>
+<INVN_STYLE style_sid="4699887020644915696" style_code=""/>
+<INVN item_sid="4699887024252017136" upc="3616410942709" use_qty_decimals="" prod_cost="" reclass_item_sid=""/>
+<INVN_SBS sbs_no="65" alu="A411909" dcs_code="RLMBLU058" vend_code="PRL" scale_no="6" description1="781787865004" description2="TF GOLF SHORT" description3="COTTON STRCH TWILL" description4="R201GB09" attr="WEDGES" siz="32" cost="" spif="" fc_cost="" fst_rcvd_date="" lst_rcvd_date="" lst_sold_date="" marked_date="" discont_date="" created_date="2020-01-17T10:10:10" modified_date="2020-01-17T10:10:10-05:00" tax_code="0" comm_code="" sched_no="" fst_price="98.5" markdown_price="" qty_per_case="" lst_rcvd_cost="" flag="" ext_flag="" edi_flag="" kit_type="0" max_disc_perc1="100" max_disc_perc2="100" min_ord_qty="" vend_lead_time="" vend_list_cost="" trade_disc_perc="" udf1_date="2020-01-17T00:00:00" udf2_value="20200117" unorderable="0" print_tag="" active="1" item_no="411909" cms="" cms_post_date="2020-01-17T15:46:25" eci_flag="" regional="0" gift_flag="" item_state="" orderable_date="" sellable_date="" long_description="" non_return_flag="" ship_weight1="" ship_weight2="" oversized_item="" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" text10="" height="" length="" width="" weight_unit="" dim_unit="" subloc_flag="" lty_price_in_points="" lty_points_earned="" force_orig_tax="" prod_cost="" local_upc="3616410942709" zero_price_lock="" currency_name="" createdby_sbs_no="" createdby_empl_name="" modifiedby_sbs_no="" modifiedby_empl_name="" range_name="" keyitem_group_name="" doc_design="" ship_method_name="">
+<INVN_SBS_SUPPLS>
+<INVN_SBS_SUPPL udf_no="1" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="2" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="3" udf_value="SP20"/>
+<INVN_SBS_SUPPL udf_no="4" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="5" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="6" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="7" udf_value="MSW POLO GOLF"/>
+<INVN_SBS_SUPPL udf_no="8" udf_value="SP20 M GOLF"/>
+<INVN_SBS_SUPPL udf_no="9" udf_value="MW Polo Sportswear"/>
+<INVN_SBS_SUPPL udf_no="10" udf_value="BOTTOMS"/>
+<INVN_SBS_SUPPL udf_no="11" udf_value="SHORTS"/>
+<INVN_SBS_SUPPL udf_no="12" udf_value="POLO RALPH LAUREN"/>
+<INVN_SBS_SUPPL udf_no="13" udf_value="RL160"/>
+<INVN_SBS_SUPPL udf_no="14" udf_value="MEN"/>
+</INVN_SBS_SUPPLS>
+<INVN_SBS_VENDORS>
+</INVN_SBS_VENDORS>
+<INVN_SBS_PRICES>
+</INVN_SBS_PRICES>
+<INVN_SBS_QTYS>
+</INVN_SBS_QTYS>
+<INVN_SBS_KITS came_from="9">
+</INVN_SBS_KITS>
+<LOTS>
+</LOTS>
+<INVN_SBS_LTYS>
+</INVN_SBS_LTYS>
+</INVN_SBS>
+</INVENTORY>
+<INVENTORY>
+<INVN_STYLE style_sid="4699887020644915696" style_code=""/>
+<INVN item_sid="4699887021928372720" upc="3616410942716" use_qty_decimals="" prod_cost="" reclass_item_sid=""/>
+<INVN_SBS sbs_no="65" alu="A411910" dcs_code="RLMBLU058" vend_code="PRL" scale_no="6" description1="781787865004" description2="TF GOLF SHORT" description3="COTTON STRCH TWILL" description4="R201GB09" attr="WEDGES" siz="33" cost="" spif="" fc_cost="" fst_rcvd_date="" lst_rcvd_date="" lst_sold_date="" marked_date="" discont_date="" created_date="2020-01-17T10:10:10" modified_date="2020-01-17T10:10:10-05:00" tax_code="0" comm_code="" sched_no="" fst_price="98.5" markdown_price="" qty_per_case="" lst_rcvd_cost="" flag="" ext_flag="" edi_flag="" kit_type="0" max_disc_perc1="100" max_disc_perc2="100" min_ord_qty="" vend_lead_time="" vend_list_cost="" trade_disc_perc="" udf1_date="2020-01-17T00:00:00" udf2_value="20200117" unorderable="0" print_tag="" active="1" item_no="411910" cms="" cms_post_date="2020-01-17T15:46:25" eci_flag="" regional="0" gift_flag="" item_state="" orderable_date="" sellable_date="" long_description="" non_return_flag="" ship_weight1="" ship_weight2="" oversized_item="" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" text10="" height="" length="" width="" weight_unit="" dim_unit="" subloc_flag="" lty_price_in_points="" lty_points_earned="" force_orig_tax="" prod_cost="" local_upc="3616410942716" zero_price_lock="" currency_name="" createdby_sbs_no="" createdby_empl_name="" modifiedby_sbs_no="" modifiedby_empl_name="" range_name="" keyitem_group_name="" doc_design="" ship_method_name="">
+<INVN_SBS_SUPPLS>
+<INVN_SBS_SUPPL udf_no="1" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="2" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="3" udf_value="SP20"/>
+<INVN_SBS_SUPPL udf_no="4" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="5" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="6" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="7" udf_value="MSW POLO GOLF"/>
+<INVN_SBS_SUPPL udf_no="8" udf_value="SP20 M GOLF"/>
+<INVN_SBS_SUPPL udf_no="9" udf_value="MW Polo Sportswear"/>
+<INVN_SBS_SUPPL udf_no="10" udf_value="BOTTOMS"/>
+<INVN_SBS_SUPPL udf_no="11" udf_value="SHORTS"/>
+<INVN_SBS_SUPPL udf_no="12" udf_value="POLO RALPH LAUREN"/>
+<INVN_SBS_SUPPL udf_no="13" udf_value="RL160"/>
+<INVN_SBS_SUPPL udf_no="14" udf_value="MEN"/>
+</INVN_SBS_SUPPLS>
+<INVN_SBS_VENDORS>
+</INVN_SBS_VENDORS>
+<INVN_SBS_PRICES>
+</INVN_SBS_PRICES>
+<INVN_SBS_QTYS>
+</INVN_SBS_QTYS>
+<INVN_SBS_KITS came_from="9">
+</INVN_SBS_KITS>
+<LOTS>
+</LOTS>
+<INVN_SBS_LTYS>
+</INVN_SBS_LTYS>
+</INVN_SBS>
+</INVENTORY>
+<INVENTORY>
+<INVN_STYLE style_sid="4699887020644915696" style_code=""/>
+<INVN item_sid="4699887023346047472" upc="3616410942723" use_qty_decimals="" prod_cost="" reclass_item_sid=""/>
+<INVN_SBS sbs_no="65" alu="A411911" dcs_code="RLMBLU058" vend_code="PRL" scale_no="6" description1="781787865004" description2="TF GOLF SHORT" description3="COTTON STRCH TWILL" description4="R201GB09" attr="WEDGES" siz="34" cost="" spif="" fc_cost="" fst_rcvd_date="" lst_rcvd_date="" lst_sold_date="" marked_date="" discont_date="" created_date="2020-01-17T10:10:10" modified_date="2020-01-17T10:10:10-05:00" tax_code="0" comm_code="" sched_no="" fst_price="98.5" markdown_price="" qty_per_case="" lst_rcvd_cost="" flag="" ext_flag="" edi_flag="" kit_type="0" max_disc_perc1="100" max_disc_perc2="100" min_ord_qty="" vend_lead_time="" vend_list_cost="" trade_disc_perc="" udf1_date="2020-01-17T00:00:00" udf2_value="20200117" unorderable="0" print_tag="" active="1" item_no="411911" cms="" cms_post_date="2020-01-17T15:46:25" eci_flag="" regional="0" gift_flag="" item_state="" orderable_date="" sellable_date="" long_description="" non_return_flag="" ship_weight1="" ship_weight2="" oversized_item="" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" text10="" height="" length="" width="" weight_unit="" dim_unit="" subloc_flag="" lty_price_in_points="" lty_points_earned="" force_orig_tax="" prod_cost="" local_upc="3616410942723" zero_price_lock="" currency_name="" createdby_sbs_no="" createdby_empl_name="" modifiedby_sbs_no="" modifiedby_empl_name="" range_name="" keyitem_group_name="" doc_design="" ship_method_name="">
+<INVN_SBS_SUPPLS>
+<INVN_SBS_SUPPL udf_no="1" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="2" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="3" udf_value="SP20"/>
+<INVN_SBS_SUPPL udf_no="4" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="5" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="6" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="7" udf_value="MSW POLO GOLF"/>
+<INVN_SBS_SUPPL udf_no="8" udf_value="SP20 M GOLF"/>
+<INVN_SBS_SUPPL udf_no="9" udf_value="MW Polo Sportswear"/>
+<INVN_SBS_SUPPL udf_no="10" udf_value="BOTTOMS"/>
+<INVN_SBS_SUPPL udf_no="11" udf_value="SHORTS"/>
+<INVN_SBS_SUPPL udf_no="12" udf_value="POLO RALPH LAUREN"/>
+<INVN_SBS_SUPPL udf_no="13" udf_value="RL160"/>
+<INVN_SBS_SUPPL udf_no="14" udf_value="MEN"/>
+</INVN_SBS_SUPPLS>
+<INVN_SBS_VENDORS>
+</INVN_SBS_VENDORS>
+<INVN_SBS_PRICES>
+</INVN_SBS_PRICES>
+<INVN_SBS_QTYS>
+</INVN_SBS_QTYS>
+<INVN_SBS_KITS came_from="9">
+</INVN_SBS_KITS>
+<LOTS>
+</LOTS>
+<INVN_SBS_LTYS>
+</INVN_SBS_LTYS>
+</INVN_SBS>
+</INVENTORY>
+<INVENTORY>
+<INVN_STYLE style_sid="4699887030501530096" style_code=""/>
+<INVN item_sid="4699887033135553008" upc="3616411588364" use_qty_decimals="" prod_cost="" reclass_item_sid=""/>
+<INVN_SBS sbs_no="65" alu="A411955" dcs_code="RLC310DRS" vend_code="PRL" scale_no="23" description1="310786233001" description2="TIE DYE DRESS" description3="30&apos;S COTTON JERSEY" description4="K201YV01" attr="TIE DYE" siz="24M" cost="" spif="" fc_cost="" fst_rcvd_date="" lst_rcvd_date="" lst_sold_date="" marked_date="" discont_date="" created_date="2020-01-17T10:10:10" modified_date="2020-01-17T10:10:10-05:00" tax_code="0" comm_code="" sched_no="" fst_price="39.5" markdown_price="" qty_per_case="" lst_rcvd_cost="" flag="" ext_flag="" edi_flag="" kit_type="0" max_disc_perc1="100" max_disc_perc2="100" min_ord_qty="" vend_lead_time="" vend_list_cost="" trade_disc_perc="" udf1_date="2020-01-17T00:00:00" udf2_value="20200117" unorderable="0" print_tag="" active="1" item_no="411955" cms="" cms_post_date="2020-01-17T15:46:25" eci_flag="" regional="0" gift_flag="" item_state="" orderable_date="" sellable_date="" long_description="" non_return_flag="" ship_weight1="" ship_weight2="" oversized_item="" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" text10="" height="" length="" width="" weight_unit="" dim_unit="" subloc_flag="" lty_price_in_points="" lty_points_earned="" force_orig_tax="" prod_cost="" local_upc="3616411588364" zero_price_lock="" currency_name="" createdby_sbs_no="" createdby_empl_name="" modifiedby_sbs_no="" modifiedby_empl_name="" range_name="" keyitem_group_name="" doc_design="" ship_method_name="">
+<INVN_SBS_SUPPLS>
+<INVN_SBS_SUPPL udf_no="1" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="2" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="3" udf_value="SP20"/>
+<INVN_SBS_SUPPL udf_no="4" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="5" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="6" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="7" udf_value="CSW"/>
+<INVN_SBS_SUPPL udf_no="8" udf_value="SP20 CW DEL 2"/>
+<INVN_SBS_SUPPL udf_no="9" udf_value="Childrenswear Girls"/>
+<INVN_SBS_SUPPL udf_no="10" udf_value="DRESSES"/>
+<INVN_SBS_SUPPL udf_no="11" udf_value="KNITS"/>
+<INVN_SBS_SUPPL udf_no="12" udf_value="POLO RALPH LAUREN"/>
+<INVN_SBS_SUPPL udf_no="13" udf_value="RL300"/>
+<INVN_SBS_SUPPL udf_no="14" udf_value="KID"/>
+</INVN_SBS_SUPPLS>
+<INVN_SBS_VENDORS>
+</INVN_SBS_VENDORS>
+<INVN_SBS_PRICES>
+</INVN_SBS_PRICES>
+<INVN_SBS_QTYS>
+</INVN_SBS_QTYS>
+<INVN_SBS_KITS came_from="9">
+</INVN_SBS_KITS>
+<LOTS>
+</LOTS>
+<INVN_SBS_LTYS>
+</INVN_SBS_LTYS>
+</INVN_SBS>
+</INVENTORY>
+<INVENTORY>
+<INVN_STYLE style_sid="4699887030501530096" style_code=""/>
+<INVN item_sid="4699887033991191024" upc="3616411588388" use_qty_decimals="" prod_cost="" reclass_item_sid=""/>
+<INVN_SBS sbs_no="65" alu="A411956" dcs_code="RLC310DRS" vend_code="PRL" scale_no="23" description1="310786233001" description2="TIE DYE DRESS" description3="30&apos;S COTTON JERSEY" description4="K201YV01" attr="TIE DYE" siz="6M" cost="" spif="" fc_cost="" fst_rcvd_date="" lst_rcvd_date="" lst_sold_date="" marked_date="" discont_date="" created_date="2020-01-17T10:10:10" modified_date="2020-01-17T10:10:10-05:00" tax_code="0" comm_code="" sched_no="" fst_price="39.5" markdown_price="" qty_per_case="" lst_rcvd_cost="" flag="" ext_flag="" edi_flag="" kit_type="0" max_disc_perc1="100" max_disc_perc2="100" min_ord_qty="" vend_lead_time="" vend_list_cost="" trade_disc_perc="" udf1_date="2020-01-17T00:00:00" udf2_value="20200117" unorderable="0" print_tag="" active="1" item_no="411956" cms="" cms_post_date="2020-01-17T15:46:25" eci_flag="" regional="0" gift_flag="" item_state="" orderable_date="" sellable_date="" long_description="" non_return_flag="" ship_weight1="" ship_weight2="" oversized_item="" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" text10="" height="" length="" width="" weight_unit="" dim_unit="" subloc_flag="" lty_price_in_points="" lty_points_earned="" force_orig_tax="" prod_cost="" local_upc="3616411588388" zero_price_lock="" currency_name="" createdby_sbs_no="" createdby_empl_name="" modifiedby_sbs_no="" modifiedby_empl_name="" range_name="" keyitem_group_name="" doc_design="" ship_method_name="">
+<INVN_SBS_SUPPLS>
+<INVN_SBS_SUPPL udf_no="1" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="2" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="3" udf_value="SP20"/>
+<INVN_SBS_SUPPL udf_no="4" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="5" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="6" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="7" udf_value="CSW"/>
+<INVN_SBS_SUPPL udf_no="8" udf_value="SP20 CW DEL 2"/>
+<INVN_SBS_SUPPL udf_no="9" udf_value="Childrenswear Girls"/>
+<INVN_SBS_SUPPL udf_no="10" udf_value="DRESSES"/>
+<INVN_SBS_SUPPL udf_no="11" udf_value="KNITS"/>
+<INVN_SBS_SUPPL udf_no="12" udf_value="POLO RALPH LAUREN"/>
+<INVN_SBS_SUPPL udf_no="13" udf_value="RL300"/>
+<INVN_SBS_SUPPL udf_no="14" udf_value="KID"/>
+</INVN_SBS_SUPPLS>
+<INVN_SBS_VENDORS>
+</INVN_SBS_VENDORS>
+<INVN_SBS_PRICES>
+</INVN_SBS_PRICES>
+<INVN_SBS_QTYS>
+</INVN_SBS_QTYS>
+<INVN_SBS_KITS came_from="9">
+</INVN_SBS_KITS>
+<LOTS>
+</LOTS>
+<INVN_SBS_LTYS>
+</INVN_SBS_LTYS>
+</INVN_SBS>
+</INVENTORY>
+<INVENTORY>
+<INVN_STYLE style_sid="4699887030501530096" style_code=""/>
+<INVN item_sid="4699887035123653104" upc="3616411588395" use_qty_decimals="" prod_cost="" reclass_item_sid=""/>
+<INVN_SBS sbs_no="65" alu="A411957" dcs_code="RLC310DRS" vend_code="PRL" scale_no="23" description1="310786233001" description2="TIE DYE DRESS" description3="30&apos;S COTTON JERSEY" description4="K201YV01" attr="TIE DYE" siz="9M" cost="" spif="" fc_cost="" fst_rcvd_date="" lst_rcvd_date="" lst_sold_date="" marked_date="" discont_date="" created_date="2020-01-17T10:10:10" modified_date="2020-01-17T10:10:10-05:00" tax_code="0" comm_code="" sched_no="" fst_price="39.5" markdown_price="" qty_per_case="" lst_rcvd_cost="" flag="" ext_flag="" edi_flag="" kit_type="0" max_disc_perc1="100" max_disc_perc2="100" min_ord_qty="" vend_lead_time="" vend_list_cost="" trade_disc_perc="" udf1_date="2020-01-17T00:00:00" udf2_value="20200117" unorderable="0" print_tag="" active="1" item_no="411957" cms="" cms_post_date="2020-01-17T15:46:25" eci_flag="" regional="0" gift_flag="" item_state="" orderable_date="" sellable_date="" long_description="" non_return_flag="" ship_weight1="" ship_weight2="" oversized_item="" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" text10="" height="" length="" width="" weight_unit="" dim_unit="" subloc_flag="" lty_price_in_points="" lty_points_earned="" force_orig_tax="" prod_cost="" local_upc="3616411588395" zero_price_lock="" currency_name="" createdby_sbs_no="" createdby_empl_name="" modifiedby_sbs_no="" modifiedby_empl_name="" range_name="" keyitem_group_name="" doc_design="" ship_method_name="">
+<INVN_SBS_SUPPLS>
+<INVN_SBS_SUPPL udf_no="1" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="2" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="3" udf_value="SP20"/>
+<INVN_SBS_SUPPL udf_no="4" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="5" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="6" udf_value=""/>
+<INVN_SBS_SUPPL udf_no="7" udf_value="CSW"/>
+<INVN_SBS_SUPPL udf_no="8" udf_value="SP20 CW DEL 2"/>
+<INVN_SBS_SUPPL udf_no="9" udf_value="Childrenswear Girls"/>
+<INVN_SBS_SUPPL udf_no="10" udf_value="DRESSES"/>
+<INVN_SBS_SUPPL udf_no="11" udf_value="KNITS"/>
+<INVN_SBS_SUPPL udf_no="12" udf_value="POLO RALPH LAUREN"/>
+<INVN_SBS_SUPPL udf_no="13" udf_value="RL300"/>
+<INVN_SBS_SUPPL udf_no="14" udf_value="KID"/>
+</INVN_SBS_SUPPLS>
+<INVN_SBS_VENDORS>
+</INVN_SBS_VENDORS>
+<INVN_SBS_PRICES>
+</INVN_SBS_PRICES>
+<INVN_SBS_QTYS>
+</INVN_SBS_QTYS>
+<INVN_SBS_KITS came_from="9">
+</INVN_SBS_KITS>
+<LOTS>
+</LOTS>
+<INVN_SBS_LTYS>
+</INVN_SBS_LTYS>
+</INVN_SBS>
+</INVENTORY>
+</INVENTORYS>
+</DOCUMENT>

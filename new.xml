@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+   <INVENTORYS>
+      <INVENTORY>
+         <INVN item_sid="4699886989774838256" upc="3616411804815"></INVN>
+         <INVN_SBS sbs_no="65" alu="A411817" dcs_code="RLWBLU004" description1="211792221001" description2="STRP PTCH T-3/4 SLEEVE-KNIT"></INVN_SBS>
+      </INVENTORY>
+      <INVENTORY>
+         <INVN item_sid="4699886990437538288" upc="3616411090799"></INVN>
+         <INVN_SBS sbs_no="65" alu="A411818" dcs_code="RLMBLU058" description1="710785442001" description2="SULLIVAN SHORT"></INVN_SBS>
+      </INVENTORY>
+      <INVENTORY>
+         <INVN item_sid="4699886990605310448" upc="3616411090812"></INVN>
+         <INVN_SBS sbs_no="65" alu="A411819" dcs_code="RLMBLU058" description1="710785442001" description2="SULLIVAN SHORT"></INVN_SBS>
+      </INVENTORY>
+      <INVENTORY>
+         <INVN item_sid="4699887005209876976" upc="3616410939006"></INVN>
+         <INVN_SBS sbs_no="65" alu="A411864" dcs_code="RLMBLU058" description1="781751527006" description2="TF GOLF SHORT"></INVN_SBS>
+      </INVENTORY>
+      <INVENTORY>
+         <INVN item_sid="4699887003230165488" upc="3616410939020"></INVN>
+         <INVN_SBS sbs_no="65" alu="A411865" dcs_code="RLMBLU058" description1="781751527006" description2="TF GOLF SHORT"></INVN_SBS>
+      </INVENTORY>
+      <INVENTORY>
+         <INVN item_sid="4699887004043860464" upc="3616410939037"></INVN>
+         <INVN_SBS sbs_no="65" alu="A411866" dcs_code="RLMBLU058" description1="781751527006" description2="TF GOLF SHORT"></INVN_SBS>
+      </INVENTORY>
+      <INVENTORY>
+         <INVN item_sid="4699887024252017136" upc="3616410942709"></INVN>
+         <INVN_SBS sbs_no="65" alu="A411909" dcs_code="RLMBLU058" description1="781787865004" description2="TF GOLF SHORT"></INVN_SBS>
+      </INVENTORY>
+      <INVENTORY>
+         <INVN item_sid="4699887021928372720" upc="3616410942716"></INVN>
+         <INVN_SBS sbs_no="65" alu="A411910" dcs_code="RLMBLU058" description1="781787865004" description2="TF GOLF SHORT"></INVN_SBS>
+      </INVENTORY>
+      <INVENTORY>
+         <INVN item_sid="4699887023346047472" upc="3616410942723"></INVN>
+         <INVN_SBS sbs_no="65" alu="A411911" dcs_code="RLMBLU058" description1="781787865004" description2="TF GOLF SHORT"></INVN_SBS>
+      </INVENTORY>
+      <INVENTORY>
+         <INVN item_sid="4699887033135553008" upc="3616411588364"></INVN>
+         <INVN_SBS sbs_no="65" alu="A411955" dcs_code="RLC310DRS" description1="310786233001" description2="TIE DYE DRESS"></INVN_SBS>
+      </INVENTORY>
+      <INVENTORY>
+         <INVN item_sid="4699887033991191024" upc="3616411588388"></INVN>
+         <INVN_SBS sbs_no="65" alu="A411956" dcs_code="RLC310DRS" description1="310786233001" description2="TIE DYE DRESS"></INVN_SBS>
+      </INVENTORY>
+      <INVENTORY>
+         <INVN item_sid="4699887035123653104" upc="3616411588395"></INVN>
+         <INVN_SBS sbs_no="65" alu="A411957" dcs_code="RLC310DRS" description1="310786233001" description2="TIE DYE DRESS"></INVN_SBS>
+      </INVENTORY>
+   </INVENTORYS>
+</DOCUMENT>
